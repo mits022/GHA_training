@@ -1,1 +1,2 @@
-cache text for GHA python cache code
+numpy
+pandas
